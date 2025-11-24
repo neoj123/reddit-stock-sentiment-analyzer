@@ -1,3 +1,6 @@
+Youtube Demo
+https://www.youtube.com/watch?v=wAXQ46RrnbY
+
 📈 Reddit Stock Analyzer
 
 This application provides real-time stock analysis by combining market price data (via Yahoo Finance) with crowd sentiment gathered from major Reddit financial communities.
