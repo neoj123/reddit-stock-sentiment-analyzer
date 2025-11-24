@@ -1,0 +1,10 @@
+enable venv, install backend dependencies using requirements.txt in backend folder
+install vite, react, tailwindCSS
+
+
+# .env file in the backend/ directory
+enable reddit API
+
+REDDIT_CLIENT_ID="[Your Reddit App ID]"
+REDDIT_CLIENT_SECRET="[Your Reddit Secret]"
+REDDIT_USER_AGENT="[StockAnalyzer-App-v1.0 by /u/YourRedditUsername]"
